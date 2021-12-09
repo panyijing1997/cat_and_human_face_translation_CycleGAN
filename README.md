@@ -1,6 +1,6 @@
 # cat_and_human_face_translation_CycleGAN
 
-CatFace to HumanFace translation.
+CatFace to HumanFace translation using [CycleGAN](https://keras.io/examples/generative/cyclegan/#build-the-cyclegan-model)
 
 Human face to cat face: works great
 
