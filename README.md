@@ -6,4 +6,4 @@ Human face to cat face: works great
 
 Cat face to human face: fails mostly
 
-<img src="results.png" width="800"/>
+<img src="some results.png" width="800"/>
