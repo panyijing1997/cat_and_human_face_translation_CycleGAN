@@ -4,7 +4,7 @@ CatFace to HumanFace translation using [CycleGAN](https://keras.io/examples/gene
 
 Human face to cat face: works great
 
-Cat face to human face: fails mostly
+Cat face to human face: not look nice mostly
 
 Dataset: https://www.kaggle.com/yijingyay/catandhumanface
 
